@@ -1,0 +1,54 @@
+div{
+	background-color: green;
+	border: 1px solid white;
+}
+
+div,img{
+	position: absolute;
+}
+
+.tamano_total{
+	height: 460px;
+	width: 815px;
+}
+
+.tamano_juego{
+	height: 420px;
+	width: 775px;
+	margin: 20px;
+}
+
+.porterias{
+	height: 190px;
+	width: 110px;
+}
+
+#derecha{
+	right: 0px;
+}
+
+.media_cancha{
+	border-radius: 50%;
+	height: 190px;
+	width: 190px;
+	left: 37.5%;
+}
+
+.margen{
+	margin: 112.5px 0px;
+}
+
+#pelota1{
+	left: 100px;
+	top: 116px;
+}
+
+#pelota2{
+	right: 115px;
+	bottom: 116px;
+}
+
+#pelota3{
+	right: 340px;
+	top: 50px;
+}
